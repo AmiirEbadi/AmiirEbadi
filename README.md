@@ -1,3 +1,1 @@
-<p align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amiirebadi&theme=merko&border_radius=7&mode=weekly)](https://git.io/streak-stats)
