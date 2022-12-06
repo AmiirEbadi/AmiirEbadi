@@ -1,9 +1,7 @@
-Hello there, <br>
-My name is Amir Ebadi and i have about two years experience in programming.<br>
-I am a Backend developer and am also interested in DevOps.<br>
-I've worked with the preceding technologies:
-<br>
-<br>
+## Hello there, <br>
+#### My name is Amir Ebadi and i have about two years experience in programming.<br>
+#### I am a Backend developer and am also interested in DevOps.<br>
+#### I've worked with the preceding technologies:<br>
 ![image](https://user-images.githubusercontent.com/98741800/205612346-d3acc579-16b5-4ac0-8f68-b400b865fc27.png)
 ![image](https://user-images.githubusercontent.com/98741800/205612772-593c45cf-4ca5-406a-a51d-c7ec75f0dbdf.png)
 ![image](https://user-images.githubusercontent.com/98741800/205613934-ec708126-6e8e-4dc1-a2f2-5f80a8803941.png)
