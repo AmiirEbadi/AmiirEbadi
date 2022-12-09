@@ -1,4 +1,6 @@
 ## Hello there, <br>
+![](https://media.giphy.com/media/AswdonoSAZV5EpKfhi/giphy.gif)<br>
+
 #### -:boy: My name is Amir Ebadi and i have about two years experience in programming.<br>
 #### -:computer: I am a Backend developer and am also interested in DevOps.<br>
 ---
