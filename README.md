@@ -1,4 +1,4 @@
-## Hello there, <br>
+## Hello buddy, <br>
 ![](https://media.giphy.com/media/AswdonoSAZV5EpKfhi/giphy.gif)<br>
 
 #### -:boy: My name is Amir Ebadi and i have about two years experience in programming.<br>
